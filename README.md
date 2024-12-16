@@ -1,2 +1,2 @@
-# Decision-Tree-and-Grid-search-CV
-Decision Tree and Grid search CV
+implementing the decision tree classifier on the iris dataset
+implementing the gridsearchcv on the decision tree classifier on the iris dataset
