@@ -7,3 +7,4 @@ Importing Libraries as follows-
 - Numpy
 - Seaborn
 - Matplotlib
+- Sklearn
